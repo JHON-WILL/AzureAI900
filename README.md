@@ -2,7 +2,7 @@
 
 ## Resumo: 
 
-Explorei o ML Automatizado no Azure Machine Learning para treinar e avaliar um modelo de aprendizado de máquina. Primeiro, criei um espaço de trabalho do Azure Machine Learning, em seguida, utilizei o aprendizado de máquina automatizado para treinar um modelo preditivo usando um conjunto de dados históricos de aluguel de bicicletas presente nesse link, https://aka.ms/bike-rentals. Neste repositorio, o arquivo JSON fornece informações sobre a configuração do trabalho, o tempo de execução, as métricas de desempenho do modelo e outros detalhes relevantes.
+Explorei o ML Automatizado no Azure Machine Learning para treinar e avaliar um modelo de aprendizado de máquina. Primeiro, criei um espaço de trabalho do Azure Machine Learning, em seguida, utilizei o aprendizado de máquina automatizado para treinar um modelo preditivo usando um conjunto de dados históricos de aluguel de bicicletas presente nesse [link](https://aka.ms/bike-rentals). Neste repositorio, o arquivo JSON fornece informações sobre a configuração do trabalho, o tempo de execução, as métricas de desempenho do modelo e outros detalhes relevantes.
 
 ## Explorando o ML Automatizado no Azure Machine Learning
 
